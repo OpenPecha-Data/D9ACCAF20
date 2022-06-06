@@ -6,7 +6,13 @@ imported: '2021-11-12T09:42:02+00:00'
 last_modified: '2022-05-27T09:42:20.590719+00:00'
 parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
 source_metadata:
-  base: {}
+  base:
+    59ba:
+      image_group_id: I1PD95903
+      title: དབུ་མའི་དོན་བསྡུས་པ།
+      total_pages: 1649
+      order: 58
+      base_file: 59ba.txt
 statistics: {}
 quality: {}
 copyright:
